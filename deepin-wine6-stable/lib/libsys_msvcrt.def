@@ -1,0 +1,12 @@
+; File generated automatically from dlls/sys_msvcrt/sys_msvcrt.spec; do not edit!
+
+LIBRARY sys_msvcrt.dll
+
+EXPORTS
+  DPU_get_vid_pid_by_index@12 @1
+  gtk_getfilename@36 @2
+  gtk_getfilename_no_parse@24 @3
+  gtk_savedir2reg@8 @4
+  gtk_getlastfiledir@4 @5
+  isEnableVar@0 @6
+  forkFileDialog@8 @7
